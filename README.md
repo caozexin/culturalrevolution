@@ -1,11 +1,11 @@
 # culturalrevolution
 Automatically exported from code.google.com/p/culturalrevolution
 
-本项目是发布一个电子文档，主要讨论文化大革命的地缘历史意义。
+本项目是曹泽新个人发布人文方面的研究文档
 
 《Yellow River flows into the Ocean -- Great Cultral Revolution under The Geopolitical Changing》
 
-《黄河入海流——地缘变局下的文化大革命》PDF文档可直接访问：
+《黄河入海流——地缘变局下的文化大革命》主要讨论文化大革命的地缘历史意义，PDF文档可直接访问：
 
 https://github.com/caozexin/culturalrevolution/blob/master/culturalrevolution.pdf
 
