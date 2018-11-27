@@ -20,6 +20,8 @@ https://github.com/caozexin/culturalrevolution/blob/master/culturalrevolution.pd
 
 相关文章：
 
+《国民党应立足九二共识，布局2020大选，与中共再争天下》：https://github.com/caozexin/culturalrevolution/raw/master/KMTshouldPKCCP.pdf
+
 《民权运动的若干理论基础》： https://github.com/caozexin/culturalrevolution/blob/master/civilrightsmovement.pdf
 
 《民权经济的观念基础》： https://github.com/caozexin/culturalrevolution/blob/master/EnocomicsOfTheCommonersPower.pdf
