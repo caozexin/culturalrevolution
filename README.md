@@ -29,7 +29,8 @@ https://github.com/caozexin/culturalrevolution/blob/master/culturalrevolution.pd
 《新左派就是犬儒修正主义》： https://github.com/caozexin/culturalrevolution/blob/master/NeoLeftIsRevisionism.pdf
 
 《用民权选票投出一个民权中国》：http://bbs.tianya.cn/post-no01-512752-1.shtml
-                             https://github.com/caozexin/culturalrevolution/blob/master/EeconomicVote.pdf
+
+https://github.com/caozexin/culturalrevolution/blob/master/EeconomicVote.pdf
 
 (本链接被删除)http://bbs.tianya.cn/post-no01-497269-1.shtml
 
