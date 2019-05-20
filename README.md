@@ -32,6 +32,9 @@ https://github.com/caozexin/culturalrevolution/blob/master/culturalrevolution.pd
 
 (本链接被删除)http://bbs.tianya.cn/post-no01-497269-1.shtml
 
+《请教何新先生，厉张吴等人，谁是共济会》，《在精英天平上的文化大革命》两文：
+https://github.com/caozexin/culturalrevolution/blob/master/tohexin.pdf
+
 正在写作《三十年河东，四十年河西——民权视野中的70年中国史》：http://bbs.tianya.cn/post-no05-418832-1.shtml
 
 
