@@ -1,7 +1,7 @@
 # culturalrevolution
 Automatically exported from code.google.com/p/culturalrevolution
 
-本项目是曹泽新个人发布人文方面的研究文档
+本项目用于曹泽新发布个人研究文档
 
 《Yellow River flows into the Ocean -- Great Cultral Revolution under The Geopolitical Changing》
 
