@@ -38,29 +38,30 @@ https://github.com/caozexin/culturalrevolution/blob/master/EeconomicVote.pdf
 https://github.com/caozexin/culturalrevolution/blob/master/tohexin.pdf
 
 ## 2023年1月19日，新增如下文章：
+
 《<strong>创建一个为全民服务的毛泽东大学</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/Maozddx.pdf
 
 《<strong>曹泽新方法学英语，三年就成美国人</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/caobridge.pdf
 
 《<strong>麻瓜学习革命项目介绍</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/LearningRevolution.pdf
 
 《<strong>永可自由阅读、不许收费的正版电子书库</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/MinquanLib.pdf
 
 《<strong>朝有中国特色的民权两党制迈进</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/TwoParty.pdf
 
 《<strong>男生女生的学习思维，兼谈女权主义</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/Feminism.pdf
 
 《<strong>理科思维、工科思维和语言思维</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/SciEngLangMind.pdf
 
 《<strong>三十年河东，四十年河西——民权视野中的七十年中国史（大饥荒部分）</strong>》（2022年更新）：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/
+https://github.com/caozexin/culturalrevolution/blob/master/HistoryOfCHN.pdf
 
 上文中附有：《新冠疫苗和风电开发中的国家安全问题》
 
