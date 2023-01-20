@@ -65,6 +65,11 @@ https://github.com/caozexin/culturalrevolution/blob/master/HistoryOfCHN.pdf
 
 上文中附有：《新冠疫苗和风电开发中的国家安全问题》
 
+<strong>制作的2022年文章合集：</strong><br>
+https://github.com/caozexin/culturalrevolution/releases/download/v1.0.0/CaoAllPaper2022.pdf
+
+## 新增本站所有文章的发行包v1.0.0
+https://github.com/caozexin/culturalrevolution/releases/download/v1.0.0/caopaper2022.zip
 
 
 
