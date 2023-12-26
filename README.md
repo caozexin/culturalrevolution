@@ -1,3 +1,45 @@
+## 2023年12月26日，新增一篇文章:
+《<strong>毛左大佬最反毛最反动——张宏良等人文化立场的基本分析</strong>》，<br>
+又名：《<strong>毛泽东的文化遗嘱与民权运动的文化标准</strong>》：<br>
+https://figshare.com/articles/thesis/Mao_Zedong_s_Cultural_Testament_and_Cultural_Standards_of_Populist_Movements/24902685
+
+----------------------------------
+## 2023年1月19日，新增如下文章：
+
+《<strong>创建一个为全民服务的毛泽东大学</strong>》：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/Maozddx.pdf
+
+《<strong>曹泽新方法学英语，三年就成美国人</strong>》：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/caobridge.pdf
+
+《<strong>麻瓜学习革命项目介绍</strong>》：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/LearningRevolution.pdf
+
+《<strong>永可自由阅读、不许收费的正版电子书库</strong>》：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/MinquanLib.pdf
+
+《<strong>朝有中国特色的民权两党制迈进</strong>》：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/TwoParty.pdf
+
+《<strong>男生女生的学习思维，兼谈女权主义</strong>》：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/Feminism.pdf
+
+《<strong>理科思维、工科思维和语言思维</strong>》：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/SciEngLangMind.pdf
+
+《<strong>三十年河东，四十年河西——民权视野中的七十年中国史（大饥荒部分）</strong>》（2022年更新）：<br>
+https://github.com/caozexin/culturalrevolution/blob/master/HistoryOfCHN.pdf
+
+上文中附有：《新冠疫苗和风电开发中的国家安全问题》
+
+<strong>制作的2022年文章合集：</strong><br>
+https://github.com/caozexin/culturalrevolution/releases/download/v1.0.0/CaoAllPaper2022.pdf
+
+## 新增本站所有文章的发行包v1.0.0
+https://github.com/caozexin/culturalrevolution/releases/download/v1.0.0/caopaper2022.zip
+
+
+----------------------
 # culturalrevolution
 Automatically exported from code.google.com/p/culturalrevolution
 
@@ -36,42 +78,6 @@ https://github.com/caozexin/culturalrevolution/blob/master/EeconomicVote.pdf
 
 《请教何新先生，厉张吴等人，谁是共济会》，《在精英天平上的文化大革命》两文：
 https://github.com/caozexin/culturalrevolution/blob/master/tohexin.pdf
-
-## 2023年1月19日，新增如下文章：
-
-《<strong>创建一个为全民服务的毛泽东大学</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/Maozddx.pdf
-
-《<strong>曹泽新方法学英语，三年就成美国人</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/caobridge.pdf
-
-《<strong>麻瓜学习革命项目介绍</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/LearningRevolution.pdf
-
-《<strong>永可自由阅读、不许收费的正版电子书库</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/MinquanLib.pdf
-
-《<strong>朝有中国特色的民权两党制迈进</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/TwoParty.pdf
-
-《<strong>男生女生的学习思维，兼谈女权主义</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/Feminism.pdf
-
-《<strong>理科思维、工科思维和语言思维</strong>》：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/SciEngLangMind.pdf
-
-《<strong>三十年河东，四十年河西——民权视野中的七十年中国史（大饥荒部分）</strong>》（2022年更新）：<br>
-https://github.com/caozexin/culturalrevolution/blob/master/HistoryOfCHN.pdf
-
-上文中附有：《新冠疫苗和风电开发中的国家安全问题》
-
-<strong>制作的2022年文章合集：</strong><br>
-https://github.com/caozexin/culturalrevolution/releases/download/v1.0.0/CaoAllPaper2022.pdf
-
-## 新增本站所有文章的发行包v1.0.0
-https://github.com/caozexin/culturalrevolution/releases/download/v1.0.0/caopaper2022.zip
-
-
 
 ----------------------
 左翼在经济观念上，不应该继续坚持马克思主义经济理论，而且要放弃公有制要求，同时，可以全面、深入、彻底、迅速地接受经济自由主义的全部理论。也就是厉张茅等人所持有的一切经济观点，特别是他们在私有权观念和市场化态度的所有主张，我们可以一概认同，完全接受他们的思想。
